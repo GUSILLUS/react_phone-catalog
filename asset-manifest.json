@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.88bd4dae.chunk.css",
-    "main.js": "./static/js/main.aacdd464.chunk.js",
-    "main.js.map": "./static/js/main.aacdd464.chunk.js.map",
+    "main.css": "./static/css/main.9e8a0f52.chunk.css",
+    "main.js": "./static/js/main.e0d6a4ec.chunk.js",
+    "main.js.map": "./static/js/main.e0d6a4ec.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.c920095f.chunk.js": "./static/js/2.c920095f.chunk.js",
     "static/js/2.c920095f.chunk.js.map": "./static/js/2.c920095f.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.88bd4dae.chunk.css.map": "./static/css/main.88bd4dae.chunk.css.map",
+    "static/css/main.9e8a0f52.chunk.css.map": "./static/css/main.9e8a0f52.chunk.css.map",
     "static/js/2.c920095f.chunk.js.LICENSE.txt": "./static/js/2.c920095f.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/order.scss": "./static/media/arrowUp.1ea6958a.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.c920095f.chunk.js",
-    "static/css/main.88bd4dae.chunk.css",
-    "static/js/main.aacdd464.chunk.js"
+    "static/css/main.9e8a0f52.chunk.css",
+    "static/js/main.e0d6a4ec.chunk.js"
   ]
 }
